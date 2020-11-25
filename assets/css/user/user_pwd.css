@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 15px;
+  background:url('/assets/images/28d.jpg') no-repeat ;
+  background-size: 100%;
+}
+
+.layui-form {
+  width: 500px;
+}
+.layui-card{
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+.layui-card-header{
+    color:#fff;
+  }
